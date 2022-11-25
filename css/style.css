@@ -1,0 +1,426 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/*header part start*/
+
+.bg-img {
+    background-image: url(../images/Untitled-3.jpg);
+    height: 650px;
+    width: 100%;
+    background-size: cover;
+
+}
+
+.nv-coustom ul li a {
+    font-size: bold;
+    text-transform: uppercase;
+    color: grey;
+}
+
+.tra-cap {
+    text-transform: capitalize;
+    background-color: #03B794;
+    color: white;
+}
+
+.header-body {
+    margin-top: 190px;
+}
+
+span {
+    color: #03B794;
+}
+
+.header-body p {
+    color: gray;
+    margin: 35px 0px 48px 0px;
+}
+
+.about-me {
+    padding: 10px 35px;
+    background-color: #03B794;
+    margin-right: 10px;
+    color: white;
+
+}
+
+.download-cv {
+    padding: 10px 25px;
+    background-color: #000;
+    color: white;
+}
+
+/*header part end*/
+/*section1 srart*/
+.sec1 {
+    width: 100%;
+    padding: 70px 0px;
+}
+
+.abut-me::after {
+    content: "";
+    height: 3px;
+    width: 7%;
+    background-color: #03B794;
+    display: block;
+    margin: 10px 0px 50px 27px;
+}
+
+.document {}
+
+.document p {
+    margin-top: 30px;
+    color: gray;
+}
+
+.box-1 {
+    content: "gsdfg";
+    height: 150px;
+    width: 150px;
+    background: #BD2FDA;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0px -5px 0px 0px;
+}
+
+.box-1 {
+    padding: 15px;
+}
+
+.box-1 h1 {
+    padding-top: 10px;
+}
+
+.box-2 {
+    content: "sdfg";
+    height: 150px;
+    width: 150px;
+    background: #FAC924;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.box-2 {
+    padding: 15px;
+}
+
+.box-2 h1 {
+    padding-top: 10px;
+}
+
+.box-3 {
+    content: "";
+    height: 150px;
+    width: 150px;
+    background: #FF7674;
+    border-radius: 50%;
+    margin: -45px auto;
+}
+
+.box-3 {
+    padding: 15px;
+}
+
+.box-3 h1 {
+    padding-top: 10px;
+}
+
+/*section1 end*/
+
+/*section2 start*/
+.sec2 {
+    width: 100%;
+    padding: 100px 0;
+    background-color: aliceblue;
+
+}
+
+.fw-icon img {
+    height: 50px;
+    width: 60px;
+    margin: 15px 0px;
+}
+
+.box-fs {
+    background-color: #fff;
+    height: 265px;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 25px;
+    box-shadow: 0px 0px 10px -7px
+}
+
+.bx-txaerea h4 {
+    margin-bottom: 20px;
+}
+
+.bx-txaerea p {
+    color: gray;
+}
+
+/*section2 end*/
+
+/*section3 start*/
+.sec3 {
+    background-color: #00B894;
+    padding: 100px 0;
+}
+
+.sec-header h1 {
+    color: white;
+    text-align: center;
+}
+
+.skil-con {
+    width: 100%;
+    background-color: gainsboro;
+}
+
+.skills {
+    text-align: right;
+    color: darkgray;
+}
+
+.photoshop {
+    width: 92%;
+    background-color: #fff;
+}
+
+.illustrator {
+    width: 85%;
+    background-color: #fff;
+}
+
+.after-effect {
+    width: 97%;
+    background-color: #fff;
+}
+
+.html {
+    width: 90%;
+    background-color: #fff;
+}
+
+.css {
+    width: 85%;
+    background-color: #fff;
+}
+
+.js {
+    width: 72%;
+    background-color: #fff;
+}
+
+/*section3 end*/
+/*section4 start*/
+.sec4 {
+    padding: 100px 0;
+}
+
+.box-ff {
+    background-color: #828282;
+    height: 265px;
+    width: 100%;
+    padding: 20px 10px;
+    margin-bottom: 25px;
+    box-shadow: 0px 0px 10px -7px
+}
+
+.box-f0 {
+    background-color: #E76C6E;
+    height: 265px;
+    width: 100%;
+    padding: 20px 10px;
+    margin-bottom: 25px;
+    box-shadow: 0px 0px 10px -7px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.boxbody {
+    margin: 0 auto;
+}
+
+.boxbody p {
+    float: left;
+    margin-right: 8px;
+}
+
+.boxbody i {
+    float: left;
+    margin-top: 5px;
+}
+
+.t-cen {
+    margin-bottom: 10px;
+}
+
+.nv-custom ul li a {
+    font-size: bold;
+    text-transform: capitalize;
+    padding-bottom: 30px;
+    color: grey;
+}
+
+.spn {
+    color: #03B794 !important;
+}
+
+/*section4 */
+/*section5 start*/
+.clai-fb {
+    text-align: center;
+    font-size: 40px;
+}
+
+.fws-icon {
+    font-size: 49px;
+    color: #D6C1C3;
+    padding: 15px 10px;
+}
+
+.media img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-right: 10px;
+
+}
+
+.box-fs {
+    height: 350px;
+    padding: 25px 26px;
+    margin-top: 50px;
+}
+
+/*section5 end*/
+/*section6 start*/
+.sec6 {
+    padding: 100px 0px;
+}
+
+.abut-me h5 {
+    margin-top: 30px;
+}
+
+.input-box input {
+    float: left;
+}
+.abut-us::after {
+    content: "";
+    height: 3px;
+    width: 7%;
+    background-color: #03B794;
+    display: block;
+    margin: 10px 0px 50px 28px;
+}
+.nm-add {
+    float: left;
+    padding: 10px 10% 10px 0%;
+    margin: 0px 28px;
+    border: 1px solid #d8cdcd;
+}
+.em-add {
+    float: right;
+    padding: 10px 14% 10px 0%;
+    border: 1px solid #d8cdcd;
+}
+.tx-area {
+    margin-top: 20px;
+    height: 100px;
+    width: 100%;
+}
+
+.massg-bx {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 113px;
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #d8cdcd;
+}
+.img-area img{
+    height: 200px;
+    width: 100%;
+}
+.box-fc {
+    background-color: #fff;
+    height: 460px;
+    width: 100%;
+    margin-bottom: 25px;
+    box-shadow: 0px 0px 10px -7px
+}
+
+
+/*section6 end*/
+/*section7 start*/
+.text-header h2{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.img-body ul{
+    list-style: none;
+}
+.img-body ul li{
+    float: left;
+}
+/*section7 end*/
+/*section8 atart*/
+.sec8{
+    padding: 80px 0px;
+}
+.img-are {
+    padding: 0px 25px;
+}
+.img-are img{
+    height: 60px;
+    width: 150px;
+    float: left;
+    margin-right: 20px;
+}
+/*section8 end*/
+
+.footer-top{
+    background-color: #F5F6FB;
+    height: 300px;
+    width: 100%;
+    padding: 50px 0px;
+}
+.icon-tim i{
+    background-color: #03B794;
+    color: white;
+    font-size: 25px;
+    padding: 7px 10px 12px 10px;
+    margin: -4px;
+}
+/*footer bottom start*/
+.footer-bottom{
+    background-color: #F5F6FB;
+    height: 60px;
+    width: 100%;
+}
+.im-sz p{
+    float: left;
+    margin-right: 8px;
+}
+.im-sz img{
+    height: 25px;
+    width: 40px;
+    float: left;
+    margin-right: 5px;
+}
+/*footer bottom end*/
+
+
+
+
+
+
+
+
+
+
+
